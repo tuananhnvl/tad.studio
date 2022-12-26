@@ -1,0 +1,19 @@
+.navbar-des {
+    
+}
+.navbar-des ul {
+    display: flex;
+    width: 600px;
+    justify-content: space-around;
+    list-style: none;
+    margin: 0 auto;
+    border: 1px solid gray;
+}
+.navbar-des ul li a {
+    text-decoration:none;
+    padding: 2rem 1rem;
+    display: block;
+    font-size:1.2rem;
+    font-weight:bold;
+    color:gray;
+}
