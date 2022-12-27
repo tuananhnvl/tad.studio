@@ -85,3 +85,11 @@ body {
   overflow-x: hidden;
 }
 
+
+
+
+/* trash */
+#main-container-all div div{
+  max-width:400px;
+  margin: 0 auto;
+}
